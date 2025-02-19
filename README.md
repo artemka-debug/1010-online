@@ -1,4 +1,4 @@
- canvas-template
+ canvas-plate
 test
 tst
 

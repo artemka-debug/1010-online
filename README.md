@@ -1,4 +1,4 @@
-# canvas-template
+ canvas-template
 test
 tst
 
